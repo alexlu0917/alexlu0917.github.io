@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.9e137b3c.chunk.css",
-    "main.js": "/static/js/main.f692cf3c.chunk.js",
-    "main.js.map": "/static/js/main.f692cf3c.chunk.js.map",
+    "main.js": "/static/js/main.c5f5e85d.chunk.js",
+    "main.js.map": "/static/js/main.c5f5e85d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.11e15922.js",
     "runtime-main.js.map": "/static/js/runtime-main.11e15922.js.map",
     "static/css/2.19627560.chunk.css": "/static/css/2.19627560.chunk.css",
@@ -134,6 +134,7 @@
     "static/media/six.04a89b5f.svg": "/static/media/six.04a89b5f.svg",
     "static/media/sketch.fa6d7eb5.svg": "/static/media/sketch.fa6d7eb5.svg",
     "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf",
+    "static/media/solidity.e09d3e94.svg": "/static/media/solidity.e09d3e94.svg",
     "static/media/strapi.74cc583e.svg": "/static/media/strapi.74cc583e.svg",
     "static/media/svelte.47c35757.svg": "/static/media/svelte.47c35757.svg",
     "static/media/swift.8a92ca47.svg": "/static/media/swift.8a92ca47.svg",
@@ -146,6 +147,7 @@
     "static/media/vitejs.11f3d899.svg": "/static/media/vitejs.11f3d899.svg",
     "static/media/vue.5f5d1689.svg": "/static/media/vue.5f5d1689.svg",
     "static/media/vuetifyjs.3848fcff.svg": "/static/media/vuetifyjs.3848fcff.svg",
+    "static/media/web3.fcd50c84.svg": "/static/media/web3.fcd50c84.svg",
     "static/media/webix.dc98a7d7.svg": "/static/media/webix.dc98a7d7.svg",
     "static/media/wolframalpha.e6299b2d.svg": "/static/media/wolframalpha.e6299b2d.svg",
     "static/media/wordpress.f39aa81e.svg": "/static/media/wordpress.f39aa81e.svg",
@@ -157,6 +159,6 @@
     "static/css/2.19627560.chunk.css",
     "static/js/2.8ed9d5f9.chunk.js",
     "static/css/main.9e137b3c.chunk.css",
-    "static/js/main.f692cf3c.chunk.js"
+    "static/js/main.c5f5e85d.chunk.js"
   ]
 }
